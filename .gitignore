@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node modules
+node_modules/
+
+# Build outputs or artifacts
+dist/tailwind.css.map
+
+# Source files (if you don't want to track these in Git)
+src/
