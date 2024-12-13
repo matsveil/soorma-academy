@@ -132,5 +132,3 @@ dist
 # Node modules
 node_modules/
 
-# Build outputs or artifacts
-dist/tailwind.css.map
